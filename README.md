@@ -13,4 +13,4 @@ See [this FAQ by the Brazil government](https://www.gov.br/receitafederal/pt-br/
 ## How to
 
 * [Using Google sheets](https://docs.google.com/spreadsheets/d/1GNjj3T8Xui7oRoQkrKOgb3Jx-1ptR16IjtY-gX_73gg/edit#gid=0) ([pt-BR](https://docs.google.com/spreadsheets/d/1ijILRdL32EJjuhzPYAs3rjAdj83viPhWnZO5BG2Wu_Y/edit?usp=sharing))
-* [Using Microsoft Excel](Exchange_rates-PQ-en.xlsx)
+* [Using Microsoft Excel](Exchange_rates-PQ-en.xlsx) ([pt-BR](Exchange_rates-PQ-ptBR.xlsx)
