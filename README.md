@@ -10,8 +10,8 @@ The USD-BRL exchange rate is a challenge in itself: one cannot simply [Yahoo fin
 
 ## How to
 
-* [Using Google sheets](https://docs.google.com/spreadsheets/d/1GNjj3T8Xui7oRoQkrKOgb3Jx-1ptR16IjtY-gX_73gg/edit#gid=0) ([pt-BR](https://docs.google.com/spreadsheets/d/1ijILRdL32EJjuhzPYAs3rjAdj83viPhWnZO5BG2Wu_Y/edit?usp=sharing))
-* [Using Microsoft Excel](Exchange_rates-PQ-en.xlsx) ([pt-BR](Exchange_rates-PQ-ptBR.xlsx))
+* [Using Google sheets](https://docs.google.com/spreadsheets/d/10etG8UfcckcIpKI3-X6ax2fjx2JqA-qLJxRvTGQJcVI/edit#gid=0) ([pt-BR](https://docs.google.com/spreadsheets/d/1Mnl46zcJlEgwFFuqP4HLeLn5cdeQyuv0Ifm0Pq5eBXY/edit#gid=0))
+* [Using Microsoft Excel](Exchange_rates-PQ-en-rev2.xlsx) ([pt-BR](Exchange_rates-PQ-ptBR-v2.xlsx))
 
 ## Sources
 
